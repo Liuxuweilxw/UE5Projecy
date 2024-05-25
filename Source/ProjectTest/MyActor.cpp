@@ -15,6 +15,7 @@ AMyActor::AMyActor()
 void AMyActor::BeginPlay()
 {
 	Super::BeginPlay();
+	// start to run code
 	
 }
 
